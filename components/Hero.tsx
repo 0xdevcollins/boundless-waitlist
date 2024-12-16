@@ -10,7 +10,7 @@ export default function Hero() {
         <p className="text-xl mb-8 text-gray-600">
           Boundless helps early-stage founders in the Stellar community validate their ideas and secure seed funding.
         </p>
-        <Button size="lg" asChild>
+        <Button size="lg" className="bg-[#1A4348]" asChild>
           <a href="#waitlist">Join the Waitlist</a>
         </Button>
       </div>
