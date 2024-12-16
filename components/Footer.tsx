@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { Facebook, Twitter, Linkedin, Github } from 'lucide-react'
+import { Twitter, Linkedin, Github, DiscIcon as Discord } from 'lucide-react'
 
 export default function Footer() {
   return (
@@ -18,6 +18,9 @@ export default function Footer() {
           </Link>
           <Link href="https://github.com/Benjtalkshow/boundless" target="_blank" rel="noopener noreferrer">
             <Github className="h-6 w-6" />
+          </Link>
+          <Link href="https://discord.gg/juUmBmwC3s" target="_blank" rel="noopener noreferrer">
+            <Discord className="h-6 w-6" />
           </Link>
         </div>
       </div>
