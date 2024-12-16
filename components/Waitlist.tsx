@@ -82,7 +82,7 @@ export default function Waitlist() {
   }
 
   return (
-    <section id="waitlist" className="py-20 px-4 md:px-6 lg:px-8 bg-blue-50">
+    <section id="waitlist" className="py-20 px-4 md:px-6 lg:px-8 bg-green-50">
       <div className="container mx-auto max-w-2xl text-center">
         <h2 className="text-3xl font-bold mb-6">Join the Waitlist</h2>
         <p className="mb-8 text-gray-600">Be the first to know when Boundless launches and get early access to our platform.</p>

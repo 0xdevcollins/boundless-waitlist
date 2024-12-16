@@ -3,7 +3,7 @@ import { Twitter, Linkedin, Github, DiscIcon as Discord } from 'lucide-react'
 
 export default function Footer() {
   return (
-    <footer className="bg-blue-900 text-white py-8 px-4 md:px-6 lg:px-8">
+    <footer className="bg-[#1A4348] text-white py-8 px-4 md:px-6 lg:px-8">
       <div className="container mx-auto flex flex-col md:flex-row justify-between items-center">
         <div className="mb-4 md:mb-0">
           <Link href="/" className="text-2xl font-bold">Boundless</Link>

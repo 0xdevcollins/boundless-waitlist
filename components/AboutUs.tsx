@@ -1,6 +1,6 @@
 export default function AboutUs() {
     return (
-      <section id="about" className="py-20 px-4 md:px-6 lg:px-8 bg-blue-50">
+      <section id="about" className="py-20 px-4 md:px-6 lg:px-8 bg-[#FFFEF1]">
         <div className="container mx-auto max-w-3xl text-center">
           <h2 className="text-3xl font-bold mb-6">About Boundless</h2>
           <p className="text-lg text-gray-600">
